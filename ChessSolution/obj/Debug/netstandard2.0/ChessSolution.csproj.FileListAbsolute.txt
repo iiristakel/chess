@@ -1,0 +1,16 @@
+C:\Users\kalle\RiderProjects\Chess\ChessSolution\bin\Debug\netstandard2.0\ChessSolution.deps.json
+C:\Users\kalle\RiderProjects\Chess\ChessSolution\bin\Debug\netstandard2.0\ChessSolution.dll
+C:\Users\kalle\RiderProjects\Chess\ChessSolution\bin\Debug\netstandard2.0\ChessSolution.pdb
+C:\Users\kalle\RiderProjects\Chess\ChessSolution\obj\Debug\netstandard2.0\ChessSolution.csprojAssemblyReference.cache
+C:\Users\kalle\RiderProjects\Chess\ChessSolution\obj\Debug\netstandard2.0\ChessSolution.csproj.CoreCompileInputs.cache
+C:\Users\kalle\RiderProjects\Chess\ChessSolution\obj\Debug\netstandard2.0\ChessSolution.AssemblyInfoInputs.cache
+C:\Users\kalle\RiderProjects\Chess\ChessSolution\obj\Debug\netstandard2.0\ChessSolution.AssemblyInfo.cs
+C:\Users\kalle\RiderProjects\Chess\ChessSolution\obj\Debug\netstandard2.0\ChessSolution.dll
+C:\Users\kalle\RiderProjects\Chess\ChessSolution\obj\Debug\netstandard2.0\ChessSolution.pdb
+C:\Users\kalle\RiderProjects\Chess\ChessSolution\bin\Debug\netstandard2.0\Domain.dll
+C:\Users\kalle\RiderProjects\Chess\ChessSolution\bin\Debug\netstandard2.0\Domain.pdb
+C:\Users\kalle\RiderProjects\Chess\ChessSolution\obj\Debug\netstandard2.0\ChessSolution.csproj.CopyComplete
+C:\Users\kalle\RiderProjects\Chess\ChessSolution\bin\Debug\netstandard2.0\FileSystem.dll
+C:\Users\kalle\RiderProjects\Chess\ChessSolution\bin\Debug\netstandard2.0\FileSystem.pdb
+C:\Users\kalle\RiderProjects\Chess\ChessSolution\bin\Debug\netstandard2.0\Helpers.dll
+C:\Users\kalle\RiderProjects\Chess\ChessSolution\bin\Debug\netstandard2.0\Helpers.pdb

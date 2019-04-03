@@ -1,0 +1,50 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "C:\\Users\\kalle\\RiderProjects\\Chess\\ConsoleApp\\ConsoleApp.csproj",
+    "projectName": "ConsoleApp",
+    "projectPath": "C:\\Users\\kalle\\RiderProjects\\Chess\\ConsoleApp\\ConsoleApp.csproj",
+    "outputPath": "C:\\Users\\kalle\\RiderProjects\\Chess\\ConsoleApp\\obj\\",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.2"
+    ],
+    "frameworks": {
+      "netcoreapp2.2": {
+        "projectReferences": {
+          "C:\\Users\\kalle\\RiderProjects\\Chess\\ChessSolution\\ChessSolution.csproj": {
+            "projectPath": "C:\\Users\\kalle\\RiderProjects\\Chess\\ChessSolution\\ChessSolution.csproj"
+          },
+          "C:\\Users\\kalle\\RiderProjects\\Chess\\FileSystem\\FileSystem.csproj": {
+            "projectPath": "C:\\Users\\kalle\\RiderProjects\\Chess\\FileSystem\\FileSystem.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.2": {
+      "dependencies": {
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.2.0, )",
+          "autoReferenced": true
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

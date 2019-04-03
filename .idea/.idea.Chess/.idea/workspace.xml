@@ -1,0 +1,654 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="db8970d5-f67d-44b3-b9d8-d08bab37ced3" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ConsoleApp/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="336">
+              <caret line="32" column="40" selection-start-line="32" selection-start-column="40" selection-end-line="32" selection-end-column="40" />
+              <folding>
+                <marker date="1554287560115" expanded="true" signature="6:51" ph="..." />
+                <marker date="1554287560115" expanded="true" signature="73:910" ph="{...}" />
+                <marker date="1554287560115" expanded="true" signature="93:908" ph="{...}" />
+                <marker date="1554287560115" expanded="true" signature="139:902" ph="{...}" />
+                <marker date="1554287560115" expanded="true" signature="286:407" ph="{...}" />
+                <marker date="1554287560115" expanded="true" signature="437:538" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ChessSolution/Solution.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="308">
+              <caret line="108" column="43" selection-start-line="108" selection-start-column="43" selection-end-line="108" selection-end-column="43" />
+              <folding>
+                <marker date="1554288028312" expanded="false" signature="6:101" ph="..." />
+                <marker date="1554288028312" expanded="true" signature="127:3550" ph="{...}" />
+                <marker date="1554288028312" expanded="true" signature="155:3548" ph="{...}" />
+                <marker date="1554288028312" expanded="true" signature="394:629" ph="/// Get and set data, find shortest path from start to the end position. ... " />
+                <marker date="1554288028312" expanded="true" signature="694:970" ph="{...}" />
+                <marker date="1554288028312" expanded="true" signature="981:1233" ph="/// Find shortest path from start to the end. ... " />
+                <marker date="1554288028312" expanded="true" signature="1285:3542" ph="{...}" />
+                <marker date="1554288028312" expanded="true" signature="1762:2883" ph="{...}" />
+                <marker date="1554288028312" expanded="true" signature="1901:2045" ph="{...}" />
+                <marker date="1554288028312" expanded="true" signature="2207:2869" ph="{...}" />
+                <marker date="1554288028312" expanded="true" signature="2519:2851" ph="{...}" />
+                <marker date="1554288028312" expanded="true" signature="3081:3194" ph="{...}" />
+                <marker date="1554288028312" expanded="true" signature="3277:3392" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Helpers/InputFile.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="14">
+              <caret line="1" column="2" selection-start-line="1" selection-start-column="2" selection-end-line="1" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FileSystem/ReadFile.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="38" column="76" selection-start-line="38" selection-start-column="76" selection-end-line="38" selection-end-column="76" />
+              <folding>
+                <marker date="1554279264632" expanded="false" signature="6:97" ph="..." />
+                <marker date="1554279264632" expanded="true" signature="119:2013" ph="{...}" />
+                <marker date="1554279264632" expanded="true" signature="154:2011" ph="{...}" />
+                <marker date="1554279264632" expanded="true" signature="169:394" ph="/// Get info from input file, validate it and assign info to board properties. ... " />
+                <marker date="1554279264632" expanded="true" signature="476:997" ph="{...}" />
+                <marker date="1554279264632" expanded="true" signature="841:959" ph="{...}" />
+                <marker date="1554279264632" expanded="true" signature="1007:1388" ph="/// Validate that coordinate is not empty and is inside gameboard's measures. ... " />
+                <marker date="1554279264632" expanded="true" signature="1473:2005" ph="{...}" />
+                <marker date="1554279264632" expanded="true" signature="1813:1876" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Helpers/OutputFile.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="14">
+              <caret line="1" column="10" lean-forward="true" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>game</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>board</replace>
+    </replaceStrings>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/ConsoleApp/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/CA55E692-DA2C-4C8A-912D-364A352AAD35/bf/03bf281b/List`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Domain/Square.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Domain/Pieces/King.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Domain/Pieces/Bishop.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Domain/GameBoard.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Domain/Pieces/Queen.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Domain/Pieces/Piece.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Domain/Pieces/Rook.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Domain/Pieces/Knight.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/CA55E692-DA2C-4C8A-912D-364A352AAD35/6a/59212572/String.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Domain/Pieces/Pawn.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Helpers/SetData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ChessSolution/Solution.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/FileSystem/ReadFile.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Helpers/GetCoordinates.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/CA55E692-DA2C-4C8A-912D-364A352AAD35/b2/20de01e4/ThrowHelper.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Domain/Class1.cs" />
+        <option value="$PROJECT_DIR$/FileSystem/Class1.cs" />
+        <option value="$PROJECT_DIR$/Solution/Class1.cs" />
+        <option value="$PROJECT_DIR$/FileSystem/OutputFile.txt" />
+        <option value="$PROJECT_DIR$/ChessSolution/Class1.cs" />
+        <option value="$PROJECT_DIR$/ConsoleApp/ConsoleApp.csproj" />
+        <option value="$PROJECT_DIR$/Domain/Board.cs" />
+        <option value="$PROJECT_DIR$/ChessSolution/ChessSolution.csproj" />
+        <option value="$PROJECT_DIR$/FileSystem/ValidateInput.cs" />
+        <option value="$PROJECT_DIR$/ChessSolution/Game.cs" />
+        <option value="$PROJECT_DIR$/FileSystem/FileSystem.csproj" />
+        <option value="$PROJECT_DIR$/Domain/Game.cs" />
+        <option value="$PROJECT_DIR$/FileSystem/InputFile.txt" />
+        <option value="$PROJECT_DIR$/Domain/Square.cs" />
+        <option value="$PROJECT_DIR$/Domain/GameBoard.cs" />
+        <option value="$PROJECT_DIR$/FileSystem/ReadFile.cs" />
+        <option value="$PROJECT_DIR$/Helpers/Class1.cs" />
+        <option value="$PROJECT_DIR$/Helpers/GetCoordinates.cs" />
+        <option value="$PROJECT_DIR$/Helpers/SetData.cs" />
+        <option value="$PROJECT_DIR$/Domain/Pieces/Piece.cs" />
+        <option value="$PROJECT_DIR$/Domain/Pieces/Knight.cs" />
+        <option value="$PROJECT_DIR$/Domain/Pieces/Bishop.cs" />
+        <option value="$PROJECT_DIR$/Domain/Pieces/King.cs" />
+        <option value="$PROJECT_DIR$/Domain/Pieces/Pawn.cs" />
+        <option value="$PROJECT_DIR$/Domain/Pieces/Queen.cs" />
+        <option value="$PROJECT_DIR$/Domain/Pieces/Rook.cs" />
+        <option value="$PROJECT_DIR$/ConsoleApp/Program.cs" />
+        <option value="$PROJECT_DIR$/ChessSolution/Solution.cs" />
+        <option value="$PROJECT_DIR$/ConsoleApp/InputFile.txt" />
+        <option value="$PROJECT_DIR$/Helpers/OutputFile.txt" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="648" />
+    <option name="y" value="7" />
+    <option name="width" value="725" />
+    <option name="height" value="728" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AssemblyExplorer" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Chess" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Chess" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="ChessSolution" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Chess" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="ConsoleApp" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Chess" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="FileSystem" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Chess" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Helpers" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="FileSystemExplorer" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="TEXT" />
+    <property name="last_opened_file_path" value="$USER_HOME$/BattleShipGame" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/ConsoleApp/bin/Debug/netcoreapp2.2/ConsoleApp.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ConsoleApp" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <envs>
+        <env name="ASPNETCORE_ENVIRONMENT" value="Development" />
+        <env name="ASPNETCORE_URLS" value="http://localhost:5000" />
+      </envs>
+      <option name="USE_EXTERNAL_CONSOLE" value="1" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/ConsoleApp/ConsoleApp.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.2" />
+      <browser url="http://localhost:5000" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="db8970d5-f67d-44b3-b9d8-d08bab37ced3" name="Default Changelist" comment="" />
+      <created>1553256875743</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1553256875743</updated>
+      <workItem from="1553256879708" duration="3487000" />
+      <workItem from="1553270693445" duration="14163000" />
+      <workItem from="1553534449340" duration="7195000" />
+      <workItem from="1553768109543" duration="738000" />
+      <workItem from="1553804368363" duration="1594000" />
+      <workItem from="1553849527278" duration="1546000" />
+      <workItem from="1554027066175" duration="11415000" />
+      <workItem from="1554127477888" duration="10974000" />
+      <workItem from="1554179914769" duration="21675000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="72787000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19364598" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.21276596" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.5139116" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" />
+      <window_info anchor="bottom" id="Performance Profiler" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Unit Tests" order="12" />
+      <window_info anchor="bottom" id="Terminal" order="13" weight="0.34042552" />
+      <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" />
+      <window_info anchor="bottom" id="Build" order="15" weight="0.3289689" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Errors In Solution" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="6" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14901665" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Build" order="0" weight="0.3289689" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.82487726" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" />
+      <window_info anchor="bottom" id="NuGet" order="8" />
+      <window_info anchor="bottom" id="Performance Profiler" order="9" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Unit Tests" order="13" />
+      <window_info anchor="bottom" id="Terminal" order="14" />
+      <window_info anchor="bottom" id="Event Log" order="15" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Errors In Solution" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="6" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand>
+      <path>
+        <item name="Chess" type="b2602c69:ProjectViewProjectNode" />
+        <item name="Chess" type="462c0819:PsiDirectoryNode" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Helpers/InputFile.txt" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" />
+    <entry file="file://$PROJECT_DIR$/FileSystem/Class1.cs" />
+    <entry file="file://$PROJECT_DIR$/Solution/Solution.cs" />
+    <entry file="file://$PROJECT_DIR$/ChessSolution/Class1.cs" />
+    <entry file="file://$PROJECT_DIR$/ConsoleApp/ConsoleApp.csproj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/CA55E692-DA2C-4C8A-912D-364A352AAD35/b2/20de01e4/ThrowHelper.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="113">
+          <caret line="49" column="6" selection-start-line="49" selection-start-column="6" selection-end-line="49" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ChessSolution/Game.cs" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/CA55E692-DA2C-4C8A-912D-364A352AAD35/bf/03bf281b/List`1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="113">
+          <caret line="145" column="8" selection-start-line="145" selection-start-column="8" selection-end-line="145" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FileSystem/FileSystem.csproj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="6" column="15" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/CA55E692-DA2C-4C8A-912D-364A352AAD35/6a/59212572/String.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="98">
+          <caret line="2482" column="6" selection-start-line="2482" selection-start-column="6" selection-end-line="2482" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Domain/Game.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="10" column="64" selection-start-line="6" selection-start-column="9" selection-end-line="10" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Domain/Square.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
+          <folding>
+            <marker date="1554272136198" expanded="true" signature="16:642" ph="{...}" />
+            <marker date="1554272136198" expanded="true" signature="47:640" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Domain/GameBoard.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="93">
+          <caret line="27" column="93" selection-start-line="27" selection-start-column="51" selection-end-line="27" selection-end-column="93" />
+          <folding>
+            <marker date="1554277547821" expanded="false" signature="6:64" ph="..." />
+            <marker date="1554277547821" expanded="true" signature="82:1759" ph="{...}" />
+            <marker date="1554277547821" expanded="true" signature="111:1757" ph="{...}" />
+            <marker date="1554277547821" expanded="true" signature="679:1049" ph="/// Constructor for gameboard. ... " />
+            <marker date="1554277547821" expanded="true" signature="1105:1751" ph="{...}" />
+            <marker date="1554277547821" expanded="true" signature="1242:1484" ph="{...}" />
+            <marker date="1554277547821" expanded="true" signature="1530:1741" ph="{...}" />
+            <marker date="1554277547821" expanded="true" signature="1641:1727" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Domain/Domain.csproj">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Helpers/Helpers.csproj">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ChessSolution/ChessSolution.csproj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="98">
+          <caret line="7" column="60" selection-start-line="7" selection-start-column="60" selection-end-line="7" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Helpers/GetCoordinates.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <marker date="1554281993745" expanded="true" signature="6:27" ph="..." />
+            <marker date="1554281993745" expanded="true" signature="46:410" ph="{...}" />
+            <marker date="1554281993745" expanded="true" signature="87:408" ph="{...}" />
+            <marker date="1554281993745" expanded="true" signature="165:242" ph="{...}" />
+            <marker date="1554281993745" expanded="true" signature="298:402" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Helpers/SetData.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="6" column="28" lean-forward="true" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+          <folding>
+            <marker date="1554281993771" expanded="false" signature="6:44" ph="..." />
+            <marker date="1554281993771" expanded="true" signature="63:1450" ph="{...}" />
+            <marker date="1554281993771" expanded="true" signature="97:1448" ph="{...}" />
+            <marker date="1554281993771" expanded="true" signature="112:355" ph="///  ... " />
+            <marker date="1554281993771" expanded="true" signature="412:1442" ph="{...}" />
+            <marker date="1554281993771" expanded="true" signature="926:1432" ph="{...}" />
+            <marker date="1554281993771" expanded="true" signature="1030:1241" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Domain/Pieces/Bishop.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="8" selection-start-line="8" selection-end-line="9" />
+          <folding>
+            <marker date="1554282723890" expanded="true" signature="38:179" ph="{...}" />
+            <marker date="1554282723890" expanded="true" signature="72:177" ph="{...}" />
+            <marker date="1554282723890" expanded="true" signature="102:171" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Domain/Pieces/King.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
+          <folding>
+            <marker date="1554282695255" expanded="true" signature="38:175" ph="{...}" />
+            <marker date="1554282695255" expanded="true" signature="70:173" ph="{...}" />
+            <marker date="1554282695255" expanded="true" signature="98:167" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Domain/Pieces/Knight.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+          <folding>
+            <marker date="1554282202242" expanded="true" signature="24:262" ph="{...}" />
+            <marker date="1554282202242" expanded="true" signature="58:260" ph="{...}" />
+            <marker date="1554282202242" expanded="true" signature="88:254" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Domain/Pieces/Pawn.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="8" column="28" lean-forward="true" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
+          <folding>
+            <marker date="1554282706140" expanded="true" signature="38:176" ph="{...}" />
+            <marker date="1554282706140" expanded="true" signature="70:174" ph="{...}" />
+            <marker date="1554282706140" expanded="true" signature="98:168" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Domain/Pieces/Piece.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="98">
+          <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
+          <folding>
+            <marker date="1554282205023" expanded="true" signature="23:195" ph="{...}" />
+            <marker date="1554282205023" expanded="true" signature="48:193" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Domain/Pieces/Queen.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <marker date="1554282713436" expanded="true" signature="38:178" ph="{...}" />
+            <marker date="1554282713436" expanded="true" signature="71:176" ph="{...}" />
+            <marker date="1554282713436" expanded="true" signature="100:170" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Domain/Pieces/Rook.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <marker date="1554282719469" expanded="true" signature="38:176" ph="{...}" />
+            <marker date="1554282719469" expanded="true" signature="70:174" ph="{...}" />
+            <marker date="1554282719469" expanded="true" signature="98:168" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ConsoleApp/System.IO.StreamWriter">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ConsoleApp/OutputFile">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ChessSolution/Solution.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="108" column="43" selection-start-line="108" selection-start-column="43" selection-end-line="108" selection-end-column="43" />
+          <folding>
+            <marker date="1554288028312" expanded="false" signature="6:101" ph="..." />
+            <marker date="1554288028312" expanded="true" signature="127:3550" ph="{...}" />
+            <marker date="1554288028312" expanded="true" signature="155:3548" ph="{...}" />
+            <marker date="1554288028312" expanded="true" signature="394:629" ph="/// Get and set data, find shortest path from start to the end position. ... " />
+            <marker date="1554288028312" expanded="true" signature="694:970" ph="{...}" />
+            <marker date="1554288028312" expanded="true" signature="981:1233" ph="/// Find shortest path from start to the end. ... " />
+            <marker date="1554288028312" expanded="true" signature="1285:3542" ph="{...}" />
+            <marker date="1554288028312" expanded="true" signature="1762:2883" ph="{...}" />
+            <marker date="1554288028312" expanded="true" signature="1901:2045" ph="{...}" />
+            <marker date="1554288028312" expanded="true" signature="2207:2869" ph="{...}" />
+            <marker date="1554288028312" expanded="true" signature="2519:2851" ph="{...}" />
+            <marker date="1554288028312" expanded="true" signature="3081:3194" ph="{...}" />
+            <marker date="1554288028312" expanded="true" signature="3277:3392" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ConsoleApp/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="32" column="40" selection-start-line="32" selection-start-column="40" selection-end-line="32" selection-end-column="40" />
+          <folding>
+            <marker date="1554287560115" expanded="true" signature="6:51" ph="..." />
+            <marker date="1554287560115" expanded="true" signature="73:910" ph="{...}" />
+            <marker date="1554287560115" expanded="true" signature="93:908" ph="{...}" />
+            <marker date="1554287560115" expanded="true" signature="139:902" ph="{...}" />
+            <marker date="1554287560115" expanded="true" signature="286:407" ph="{...}" />
+            <marker date="1554287560115" expanded="true" signature="437:538" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Helpers/InputFile.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="14">
+          <caret line="1" column="2" selection-start-line="1" selection-start-column="2" selection-end-line="1" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ConsoleApp/OutputFil.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FileSystem/ReadFile.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="38" column="76" selection-start-line="38" selection-start-column="76" selection-end-line="38" selection-end-column="76" />
+          <folding>
+            <marker date="1554279264632" expanded="false" signature="6:97" ph="..." />
+            <marker date="1554279264632" expanded="true" signature="119:2013" ph="{...}" />
+            <marker date="1554279264632" expanded="true" signature="154:2011" ph="{...}" />
+            <marker date="1554279264632" expanded="true" signature="169:394" ph="/// Get info from input file, validate it and assign info to board properties. ... " />
+            <marker date="1554279264632" expanded="true" signature="476:997" ph="{...}" />
+            <marker date="1554279264632" expanded="true" signature="841:959" ph="{...}" />
+            <marker date="1554279264632" expanded="true" signature="1007:1388" ph="/// Validate that coordinate is not empty and is inside gameboard's measures. ... " />
+            <marker date="1554279264632" expanded="true" signature="1473:2005" ph="{...}" />
+            <marker date="1554279264632" expanded="true" signature="1813:1876" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Helpers/OutputFile.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="14">
+          <caret line="1" column="10" lean-forward="true" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
